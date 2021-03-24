@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38e76c59-c4f2-4505-ac71-0b894e72e3ec" name="Default Changelist" comment="" />
+    <list default="true" id="38e76c59-c4f2-4505-ac71-0b894e72e3ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/closeAuction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/schemas/createAuctionSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/schemas/createBidSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/schemas/getAuctionsSchema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iam/AuctionsTableIAM.yml" beforeDir="false" afterPath="$PROJECT_DIR$/iam/AuctionsTableIAM.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/AuctionsTable.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/AuctionsTable.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serverless.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/handlers/createAuction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/createAuction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/handlers/getAuctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/getAuctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/handlers/placeBid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/handlers/placeBid.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +45,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pzGU4bS1MoQ3WGYduOjENf6WAp" />
   <component name="ProjectViewState">
@@ -39,12 +74,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616178520913</updated>
-      <workItem from="1616178522621" duration="16357000" />
+      <workItem from="1616178522621" duration="21896000" />
+      <workItem from="1616522978236" duration="7017000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1616179301859">
